@@ -26,7 +26,7 @@ ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : SUDAH TAMAT
+${htjava} *🧮 Kelas* : Masih SMA
 ${htjava} *🧩 Hobby* : TURU, MAKAN, NGEGAME
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indonesia, Sumatera Utara 
