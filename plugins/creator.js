@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Owner Bot
+${htjava} *💌 Nama* : Azmy
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : Masih SMA
-${htjava} *🧩 Hobby* : TURU, MAKAN, NGEGAME
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indonesia, Sumatera Utara 
-${htjava} *❤️ Waifu* : Karyl Chan😺
+${htjava} *⏰ Tanggal lahir* : Private 
+${htjava} *🎨 Umur* : 14
+${htjava} *🧮 Kelas* : Masih SMP
+${htjava} *🧩 Hobby* : TURU, MAKAN, main hp
+${htjava} *💬 Sifat* : jangan chat owner jika tidak perlu 
+${htjava} *🗺️ Tinggal* : Indonesia, Sulawesi tengah
+${htjava} *❤️ Waifu* : private
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
@@ -41,8 +41,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
+	{title: "📱 • Nomor Owner", rowId: ".6281241956878"},
+	{title: "📱 • Nomor Owner V2", rowId: ".6281241956878"},
 	{title: "📱 • Pengembang", rowId: ".whmods2"},
 	{title: "📱 • Creator", rowId: ".whmods3"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
