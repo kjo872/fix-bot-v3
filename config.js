@@ -58,19 +58,19 @@ global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081241956878' //dana
+global.pdana = '97691538545' //dana
 global.povo = '-' //ovo
-global.pgopay = '081241956878' //gopay
+global.pgopay = '97691538545' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '081241956878' //telkomsel
-global.ppulsa2 = '081241956878' // kalau ada kartu lain isi aja
+global.ppulsa = '97691538545' //telkomsel
+global.ppulsa2 = '97691538545' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282195750041'
-global.nomorown = '6281241956878'
-global.namebot = 'Wangsaff BOT'
-global.nameown = '© azmy'
+global.nomorbot = '97691538545'
+global.nomorown = '97691538545'
+global.namebot = 'Aalan BOT'
+global.nameown = '© Aalan'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Chezeelmaoxz' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281241956878', '© azmy', true],
+  ['97691538545', '© azmy', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
